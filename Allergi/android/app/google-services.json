@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703462473125",
+    "project_id": "allergi-d4361",
+    "storage_bucket": "allergi-d4361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703462473125:android:15d28d1f349cb2716e3c4c",
+        "android_client_info": {
+          "package_name": "com.allergi.allergi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEwoC9sTbiDc9USYOMjil8elEcH3S9SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
